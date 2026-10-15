@@ -1,0 +1,6 @@
+{
+  "name": "PulseMP3 - Modern Audio Player",
+  "description": "Full-featured MP3 and audio player with equalizer, sleep timer, playback speed control, playlist management, and responsive mini/full player views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
